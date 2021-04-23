@@ -2,10 +2,11 @@
 
 ### This is IoT project
 * coded in 2017.07-2017.08
-* Window, Android, Linux
-* Visual Studio 2015(C#), Adroid Studio(Java), Eclipse(Java)
-* Arduino, RaspberryPi, Xbee
-* MS-SQL
+* Language: Java, C#
+* OS: Window, Android, Linux
+* Tools: Visual Studio 2015(C#), Adroid Studio(Java), Eclipse(Java)
+* DB: MS-SQL
+* H/W: Arduino, RaspberryPi, Xbee
 
 ### 1. IoT Project Layout
 * washer washer는 사물인터넷을 이용하여 바쁜 현대인의 불필요한 시간 낭비를 줄여주는 O2O 서비스입니다.
