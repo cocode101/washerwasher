@@ -20,7 +20,7 @@
 ![image](https://user-images.githubusercontent.com/34678475/115871034-019e0d00-a47b-11eb-93d2-91eaec77972e.png)
 
 
-### 3. H/W design
+### 3. H/W Design
 
 ![image](https://user-images.githubusercontent.com/34678475/115870703-92281d80-a47a-11eb-97ab-0fa75a57c530.png)
 
