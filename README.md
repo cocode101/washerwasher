@@ -13,7 +13,7 @@
 
 ![image](https://user-images.githubusercontent.com/34678475/115559889-0f268c00-a2ef-11eb-96c2-148f90b102be.png)
 
-### 2. Service Map
+### 2. Service Design
 * CustomerN: 매장관리자(Shop Owner-C# Window Program)
 * Device: 세탁기 부착 H/W Module
 * UserN: 매장이용자(Shop User-Adroid Device)
